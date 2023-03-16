@@ -1,0 +1,18 @@
+name: StaffMode
+version: '${project.version}'
+main: com.georgerowland.staffmode.StaffMode
+api-version: 1.19
+
+commands:
+  staffmode:
+    usage: /<command>
+    description: Toggles staffmode
+    allias: sm
+  tp:
+    usage: /<command>
+    description: allows staff to tp in staffmode
+    allias: smtp
+  freeze:
+    usage: /<command>
+    description: allows staff to freeze users in staffmode
+    allias: smfreeze

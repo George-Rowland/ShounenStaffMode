@@ -1,0 +1,19 @@
+Commands:
+  StaffMode:
+    NoPermission: "&cSorry, you do not have the permission required. &7shounenstaffmode.staffmode"
+    ToggledOn: "&cShounen SM: &aStaffMode has been toggled on!"
+    ToggledOff: "&cShounen SM: &aStaffMode has been toggled off!"
+  StaffModeTP:
+    NoPermission: "&cSorry, you do not have the permission required. &7shounenstaffmode.staffmodetp"
+  StaffModeFreeze:
+    NoPermission: "&cSorry, you do not have the permission required. &7shounenstaffmode.staffmodefreeze"
+
+
+
+
+#DO NOT TOUCH ANYTHING BELOW THIS NOTE
+Location:
+  world:
+    x:
+    y:
+    z:
